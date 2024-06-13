@@ -1,6 +1,6 @@
 ---
 title: "NYC Census Tracts"
-author: "Aanya"
+author: "Aanya Shah"
 format: html
 execute: 
   echo: false
